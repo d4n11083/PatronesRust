@@ -32,7 +32,9 @@ Para estos algoritmos se tomaron como referencia algoritmos creados por diferent
 se enlistan acá: 
 
 https://github.com/hello-rust
+
 http://github.com/~eliovir
+
 https://github.com/jdavis
 
 
