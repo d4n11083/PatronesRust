@@ -11,7 +11,6 @@ trait Phone {
     fn call(&self); // Con la función de realizar una llamada
 }
 
-
 /*
  * Se define una tablet
  */
