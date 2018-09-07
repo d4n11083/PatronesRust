@@ -1,7 +1,6 @@
 //! Example of design pattern inspired from Head First Design Patterns
 //! Tested with rust-1.3.0
 //! @author Eliovir <http://github.com/~eliovir>
-//! @license MIT license <http://www.opensource.org/licenses/mit-license.php>
 
 
 // Este va a ser nuestro Observador

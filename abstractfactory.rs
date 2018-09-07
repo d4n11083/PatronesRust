@@ -1,5 +1,4 @@
 /*
-
  * Abstract Factory Design Pattern
  * http://joshldavis.com/rust-design-patterns/abstract-factory/
  */
